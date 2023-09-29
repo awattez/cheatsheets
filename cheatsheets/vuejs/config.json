@@ -1,0 +1,11 @@
+{
+    "template": "grid-flow",
+    "mainColor": "#42b883",
+    "secondaryColor": "#155f3e",
+    "name": "VueJS",
+    "description": "Basic template that use css grid to auto arrange section. With capacity to take one or more cell for each section.",
+    "icon": "assets/vue.png",
+    "templateParams": {
+      "colNumber": 3
+    }
+  }
